@@ -55,7 +55,7 @@ with gr.Blocks(css=css) as demo:
             "
             >
             <h1 style="font-weight: 900; margin-bottom: 7px; margin-top: 5px;">
-                Magic Diffusion 🪄
+                Text to image Magic Diffusion 🪄
             </h1>
             </div>
             <p style="margin-bottom: 10px; font-size: 94%">
